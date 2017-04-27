@@ -1,0 +1,49 @@
+*{
+  font-family: 'Raleway', sans-serif;
+}
+body{
+  }
+form{
+  position: relative;
+  display: inline-block;
+  left: 66px;
+}
+span{
+
+}
+.positionCheck{
+  position: relative !important;
+  left: -270px !important;
+  bottom: -1px !important;
+}
+.positionSpan{
+  left: 20px;
+  position: relative;
+}
+.div{
+  position: relative;
+}
+.datos{
+  position: relative;
+}
+.data
+{
+  position: relative;
+  margin-bottom: 20px;
+}
+#labelMessage{
+  display: inline-block;
+  position: relative;
+  bottom: 113px;
+}
+h2{
+  position: relative;
+  left: 66px;
+  font-size: 34px;
+}
+.inputs{
+  position: relative;
+  left: 20px;
+  border-radius: 45px;
+  padding-left:5px;
+}
