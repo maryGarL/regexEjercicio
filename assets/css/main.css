@@ -34,7 +34,7 @@ span{
 #labelMessage{
   display: inline-block;
   position: relative;
-  bottom: 113px;
+  bottom: 118px;
 }
 h2{
   position: relative;
@@ -46,4 +46,17 @@ h2{
   left: 20px;
   border-radius: 45px;
   padding-left:5px;
+}
+.mensaje{
+  display: inline-block;
+  left: 23px;
+  position: relative;
+}
+.data #commit{
+  position: relative;
+  bottom: 103px;
+}
+.data #comentario{
+  padding-left: 36px;
+  padding-top: 8px;
 }
